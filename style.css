@@ -14,8 +14,8 @@ body {
 }
 .ui {
   border-radius: 2rem;
-  min-width: 450px;
-  min-height: 250px;
+  min-width: 100vw;
+  min-height: 100vh;
   text-align: center;
   display: flex;
   flex-direction: column;
